@@ -1,0 +1,13 @@
+int
+real
+char
+string
+if
+then
+else
+for
+while
+void
+const
+true
+false
